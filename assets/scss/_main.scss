@@ -130,3 +130,19 @@ table.button.green table td {
         max-width: 230px;
     }
 }
+
+.subtitle {
+    color: #f3f3f3 !important;
+    font-size: 9px;
+    background: #f3f3f3;
+    margin: 0 !important;
+    padding: 0;
+    height: 0;
+}
+
+.centered {
+    text-align: center;
+    table {
+        margin: 0 auto 16px auto;
+    }
+}
